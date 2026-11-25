@@ -11,3 +11,6 @@ python app.py
 - app.py: Main application entry point
 - .gitignore: Rules for ignored local/sensitive files
 - README.md: Project documentation
+
+## Features
+- Displays numbered tasks in the terminal
