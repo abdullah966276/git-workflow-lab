@@ -9,3 +9,4 @@ if __name__ == "__main__":
     main()
     print("All tasks listed successfully.")
     print("All tasks listed successfully.")
+    print("All tasks listed successfully.")
