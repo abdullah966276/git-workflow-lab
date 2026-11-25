@@ -14,3 +14,6 @@ python app.py
 
 ## Features
 - Displays numbered tasks in the terminal
+
+## Features
+- Displays numbered tasks in the terminal
