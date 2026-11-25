@@ -1,7 +1,7 @@
 ﻿tasks = ["Learn Git branching", "Resolve a merge conflict"]
 
 def main():
-    print("Task Manager v0.1")
+    print("=== TASK MANAGER PRO ===")
     for idx, task in enumerate(tasks, 1):
         print(f"{idx}. {task}")
 
